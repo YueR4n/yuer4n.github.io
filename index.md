@@ -33,8 +33,9 @@ My work aims to enhance the understanding of how auditory and olfactory stimuli 
 
 *   Trip records
     *   [2017, Qingdao](./trips/2017-5-Qingdao.html)
-    *   [2018, Nanjing&Wuhan](./trips/2018-1-Nanjing&Wuhan.html), 
-*   Test
+    *   [2018, Nanjing&Wuhan](./trips/2018-1-Nanjing&Wuhan.html), [2018, Tianjin](./trips/2018-4-Tianjin.html), [2018, Dalian](./trips/2018-8-Dalian.html)
+    *   
+*   Records
 
 ```
 :-P
