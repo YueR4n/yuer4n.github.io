@@ -37,10 +37,10 @@ My work aims to enhance the understanding of how auditory and olfactory stimuli 
     *   (2019) [Macao and Taiwan](./trips/2019-1-Macao&Taiwan.html), [Xi'an](./trips/2019-5-Xi'an.html), [Chengdu and Chongqing](./trips/2019-8-Chengdu&Chongqing.html), [Taiwan Exchange](./trips/2019-9-2020-1-TaiwanExchange.html)
     *   (2020) [Hangzhou](./trips/2020-6-Hangzhou.html), [Russia (didn't make it because of pandemic)](./trips/2020-Russia.html)
     *   (2021) [Shenyang](./trips/2021-2-Shenyang.html), [Shenzhen](./trips/2021-8-10-Shenzhen.html), [Huizhou](./trips/2021-9-Huizhou.html), [Zhuhai](./trips/2021-9-Zhuhai.html)
-    *   (2022)
-    *   (2023)
-    *   (2024)
-    *   (2025)
+    *   (2022) [Harbin](./trips/2022-6-Harbin.html), [Chaoshan](./trips/2022-8-Chaoshan.html)
+    *   (2023) [Japan (Shirakawa)](./trips/2023-1-Japan-Shirakawa.html), [Melbourne & Sydney](./trips/2023-6-7-Melbourne&Sydney.html), [Taiwan](./trips/2023-10-Taiwan.html), [Shunde](./trips/2023-12-Shunde.html), [Hong Kong (2023-2025)](./trips/2023-2025-Hongkong.html)
+    *   (2024) [Thailand/Japan/Korea](./trips/2024-1-2-THAI&JP&KR.html), [Xinjiang](./trips/2024-6-Xinjiang.html), [EU Roundtrip](./trips/2024-8-EU-Roundtrip.html), [Jingdezhen](./trips/2024-9-10-Jingdezhen.html)
+    *   (2025) [Tibet](./trips/2025-7-Tibet.html), [Beijing](./trips/2025-10-Beijing.html), [Hainan](./trips/2025-11-Hainan.html)
 *   Records
 
 ```
