@@ -29,6 +29,10 @@ My work aims to enhance the understanding of how auditory and olfactory stimuli 
 *   Chan Sui Hung Best Student Award, 16 Aug 2023
 *   Research Tuition Scholarship, 1 Sept 2023
 
+## Blog pages
+
+*   Trip records [2017, Qingdao](./trips/2017-5-Qingdao.html) [2018, Nanjing&Wuhan](./trips/2018-1-Nanjing&Wuhan.html)
+*   Test
 
 ```
 :-P
