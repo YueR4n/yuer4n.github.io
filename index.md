@@ -31,7 +31,7 @@ My work aims to enhance the understanding of how auditory and olfactory stimuli 
 
 ## Blog pages
 
-<details>
+<details markdown="1">
 
 <summary>Trip records (Mainly in Chinese, bullet lists, exported from Mubu)</summary>
 *   (2017) [Qingdao](./trips/2017/2017-5-Qingdao.html)
