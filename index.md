@@ -25,9 +25,9 @@ My work aims to enhance the understanding of how auditory and olfactory stimuli 
 
 ## Awards
 
-*   **Outstanding Academic Performance Award (OAPA)** for Research Degree Students (non-local UGC-funded students), 28 Aug 2025 and 16 Aug 2024
-*   Chan Sui Hung Best Student Award, 16 Aug 2023
-*   Research Tuition Scholarship, 1 Sept 2023
+*   **Outstanding Academic Performance Award (OAPA)** for Research Degree Students (non-local UGC-funded students), 2024 - 2025 and 2025 - 2026
+*   Chan Sui Hung Best Student Award, 2023 - 2024
+*   Research Tuition Scholarship, 2023 - 2024
 
 ## Blog pages
 
